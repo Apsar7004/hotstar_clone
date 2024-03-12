@@ -1,3 +1,10 @@
+# deployment using vercel
+https://hotstar-clone-lovat-eight.vercel.app/
+
+# vercen dashboard
+https://vercel.com/apsars-projects/hotstar-clone
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
